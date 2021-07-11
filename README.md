@@ -1,4 +1,6 @@
-# pandas-challengeCreate a new repository for this project called pandas-challenge. Do not add this homework to an existing repository.
+# pandas-challenge
+
+Create a new repository for this project called pandas-challenge. Do not add this homework to an existing repository.
 
 
 Clone the new repository to your computer.
